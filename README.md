@@ -95,9 +95,7 @@ I am a  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
   
 </div>
 
----
-  
-### :fire: My Stats :
+
 
 <br>
 

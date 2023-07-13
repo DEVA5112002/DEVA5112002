@@ -2,13 +2,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/krishna-t-64bb3a204">
+    <a href="http://www.linkedin.com/in/devananth511">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.codechef.com/users/krishna5503">
-      <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="Codechef Badge"/>
-    </a>
-       <a href="https://leetcode.com/Krishna_cs20/">
+       <a href="https://leetcode.com/devananth2024/">
       <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode Badge"/>
     </a>
   </div>
@@ -16,7 +13,7 @@
   <h1>
     Hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-   , I'm Krishna 
+   , I'm DEV ANANTH 
   </h1>
   </div>
   <br> 
@@ -84,21 +81,17 @@ I am a  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 <div>
 
- <a href="https://www.linkedin.com/in/krishna-t-64bb3a204">
+ <a href="http://www.linkedin.com/in/devananth511">
       <img height="32" width="32" src="https://github.com/PremApk/PremApk/blob/main/imgs/linkedin.svg" alt="LinkedIn Badge"/>
   </a>
 
-  <a href="https://www.instagram.com/krishna_553_/">
+  <a href="https://www.instagram.com/deva_sivakumar/">
       <img align="left" height="32" width="32" src="https://github.com/PremApk/PremApk/blob/main/imgs/instagram.svg" alt="instagram Badge"/>
   </a>
   
-   <a href="https://stackoverflow.com/users/20852371/krishna-t">
-      <img align="left" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="Stackoverflow Badge"/>
-  </a>
+   
   
-   <a href="https://www.quora.com/profile/KRISHNA-T-203">
-      <img align="left" height="32" width="32" src="https://github.com/PremApk/PremApk/blob/main/imgs/quora.svg" alt="Quora Badge"/>
-  </a>
+  
   
 </div>
 
@@ -108,13 +101,13 @@ I am a  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 <br>
 
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=Krishnacoder528&show_icons=true&hide_border=trusse&theme=aura)
 
 
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnacoder528&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
